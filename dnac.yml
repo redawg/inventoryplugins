@@ -1,3 +1,4 @@
+---
 plugin: dna_center
 host: 'dna-3-dnac.campus.wwtatc.local'
 validate_certs: 'no'
