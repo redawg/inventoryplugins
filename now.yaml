@@ -1,3 +1,4 @@
+---
 plugin: servicenow.itsm.now
 table: cmdb_ci_linux_server
 group_by:
@@ -5,4 +6,4 @@ group_by:
   os:
     includes:
       - Linux Red Hat
-      - Windows XP
+      
