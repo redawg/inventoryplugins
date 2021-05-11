@@ -1,9 +1,7 @@
 ---
 plugin: servicenow.itsm.now
 table: cmdb_ci_linux_server
-group_by:
-  manufacturer:
-  os:
-    includes:
-      - Linux Red Hat
+columns:
+  - name
+  - classification
       
