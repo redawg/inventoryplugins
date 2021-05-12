@@ -6,4 +6,4 @@ columns:
   - ip_address
   - host_name
 ansible_host_source: ip_address
-inventory_hostname_source: asset_tag
+inventory_hostname_source: ip_address
