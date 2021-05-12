@@ -71,8 +71,26 @@ extra_vars:
 -- Note you will have to type the name of the yml you want with the plugin config the example is using "certnow.yml"
 ![image](https://user-images.githubusercontent.com/17077661/118033206-654e8400-b31d-11eb-8029-5b0a0e603dda.png)
 
+<B> SYNC YOUR INVENTORY EXAMPLE BELOW </B>
 
-
+<pre class="line-number language-yaml"><code>ansible-inventory [core 2.11.0rc2] 
+  config file = None
+  configured module search path = ['/home/runner/.ansible/plugins/modules', '/usr/share/ansible/plugins/modules']
+  ansible python module location = /usr/local/lib/python3.8/site-packages/ansible
+  ansible collection location = /runner/requirements_collections:/home/runner/.ansible/collections:/usr/share/ansible/collections
+  executable location = /usr/local/bin/ansible-inventory
+  python version = 3.8.3 (default, Aug 31 2020, 16:03:14) [GCC 8.3.1 20191121 (Red Hat 8.3.1-5)]
+  jinja version = 2.10.3
+  libyaml = True
+No config file found; using defaults
+host_list declined parsing /runner/project/certnow.yml as it did not pass its verify_file() method
+script declined parsing /runner/project/certnow.yml as it did not pass its verify_file() method
+[WARNING]: Skipping host 27e3a47cc0a8000b001d28ab291fa65b due to empty
+Parsed /runner/project/certnow.yml inventory source with auto plugin
+    9.638 INFO     Processing JSON output...
+    9.640 INFO     Loaded 0 groups, 2 hosts
+   10.127 INFO     Inventory import completed for Service Now Project Plugin Inventory in 0.5s
+</code></pre>
 
 
 
