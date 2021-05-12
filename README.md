@@ -1,12 +1,11 @@
 # inventoryplugins
 
 
-This repo is for example inventory plugins:
+This repo is an example of how to setup inventory plugins with AAP (Controller/Tower):
 
 Steps you will need to leverage inventory plugins:
 
 Create a repo like this with the following structure:
-
 
 <pre class="line-number language-yaml"><code>├── collections
 │   └── requirements.yml       # Where you put the collections required for plugin
