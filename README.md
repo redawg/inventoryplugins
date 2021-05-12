@@ -20,5 +20,17 @@ NOTE: because plugin inventories can connect different ways or need different in
 
 ![image](https://user-images.githubusercontent.com/17077661/118025603-e2c1c680-b314-11eb-8673-041edb694487.png)
 
+![image](https://user-images.githubusercontent.com/17077661/118025735-04bb4900-b315-11eb-88e5-27a3afee8ccc.png)
+
+![image](https://user-images.githubusercontent.com/17077661/118025859-24527180-b315-11eb-840a-4ca83e530006.png)
+
+![image](https://user-images.githubusercontent.com/17077661/118025958-2d434300-b315-11eb-97d1-02cf21897d8e.png)
+
+![image](https://user-images.githubusercontent.com/17077661/118026151-5cf24b00-b315-11eb-8805-64c7f6c9babe.png)
+
+
+
+
+
 WORK IN PROGRESS
 
