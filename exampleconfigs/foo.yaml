@@ -1,5 +1,5 @@
 ###this is a template for configs
 # This config is for the foo.foo Galaxy collection (Community)
-# Docs 
+# Docs: SOME URL 
 plugin: foo.foo
 # configuration will vary with each plugin

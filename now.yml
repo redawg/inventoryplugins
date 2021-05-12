@@ -1,4 +1,5 @@
 # This config is for the servicenow.servicenow Galaxy collection (Community)
+# DOCS: https://galaxy.ansible.com/servicenow/servicenow
 plugin: servicenow.servicenow.now
 table: cmdb_ci_linux_server
 fields: [ip_address,fqdn,host_name,sys_class_name,name,os]

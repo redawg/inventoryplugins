@@ -1,4 +1,5 @@
-# This config is for the servicenow.itsm Certified Collection
+# This config example is for the servicenow.itsm Certified Collection
+# DOCS: https://github.com/ansible-collections/servicenow.itsm/blob/main/docs/servicenow.itsm.servicenow.itsm.now_inventory.rst
 plugin: servicenow.itsm.now
 columns:
   - name
