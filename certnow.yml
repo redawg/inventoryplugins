@@ -1,0 +1,8 @@
+# This config is for the servicenow.itsm Certified Collection
+plugin: servicenow.itsm.now
+columns:
+  - name
+  - ip_address
+  - host
+ansible_host_source: ip_address
+inventory_hostname_source: asset_tag

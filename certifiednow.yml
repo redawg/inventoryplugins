@@ -1,7 +1,0 @@
-# This config is for the servicenow.itsm Certified Collection
-plugin: servicenow.itsm.now
-group_by:
-  manufacturer:
-  os:
-    includes:
-      - Linux Red Hat
