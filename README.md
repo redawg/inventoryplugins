@@ -18,8 +18,7 @@ When leveraging this in Ansible Automation Platform you will need to create cust
 NOTE: because plugin inventories can connect different ways or need different information this is specific to the plugin/collection used I will provide examples of different ones
 
 
-![image](https://user-images.githubusercontent.com/17077661/118025603-e2c1c680-b314-11eb-8673-041edb694487.png)
-
+CREATE A NEW PROJECT FOR INVENTORY PLUGINS:
 ![image](https://user-images.githubusercontent.com/17077661/118025735-04bb4900-b315-11eb-88e5-27a3afee8ccc.png)
 
 ![image](https://user-images.githubusercontent.com/17077661/118025859-24527180-b315-11eb-840a-4ca83e530006.png)
