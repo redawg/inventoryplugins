@@ -56,8 +56,7 @@ NOW Create new Creds using the custom creds just created - Note the Creds create
 ![image](https://user-images.githubusercontent.com/17077661/118028290-c5422c00-b317-11eb-8908-fd66352ae226.png)
 
 
-
-
+<B2>CREATE A NEW INVENTORY</B2>
 
 ![image](https://user-images.githubusercontent.com/17077661/118025859-24527180-b315-11eb-840a-4ca83e530006.png)
 
