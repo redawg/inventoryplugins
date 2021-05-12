@@ -19,6 +19,7 @@ NOTE: because plugin inventories can connect different ways or need different in
 
 
 <B>CREATE A NEW PROJECT FOR INVENTORY PLUGINS:</B>
+-- Remember to sync project after created
 ![image](https://user-images.githubusercontent.com/17077661/118025735-04bb4900-b315-11eb-88e5-27a3afee8ccc.png)
 
 <B>Create Custom Creds - Example Service NOW ITSM </B>
