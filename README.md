@@ -32,8 +32,7 @@ NOTE: because plugin inventories can connect different ways or need different in
 Create Custom Creds - Example Service NOW ITSM
 
 INPUT CONFIGURATION:
-<pre class="line-number language-yaml"><code>
-fields:
+<pre class="line-number language-yaml"><code>fields:
   - id: username
     type: string
     label: Username
@@ -49,8 +48,7 @@ fields:
     label: FQDN Instance URL
 </code></pre>
 INJECTOR CONFIGURATION:
-<pre class="line-number language-yaml"><code>
-env:
+<pre class="line-number language-yaml"><code>env:
   SN_HOST: '{{host}}'
   SN_INSTANCE: '{{instance}}'
   SN_PASSWORD: '{{password}}'
