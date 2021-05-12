@@ -60,6 +60,9 @@ extra_vars:
   SN_USERNAME: '{{username}}'
 </code></pre>
 ![image](https://user-images.githubusercontent.com/17077661/118027549-e9e9d400-b316-11eb-903a-a9131e218eac.png)
+NOW Create new Creds using the custom creds just created - Note the Creds created above are built to be used by this plugin and playbooks that need credentials to update tickets etc. 
+![image](https://user-images.githubusercontent.com/17077661/118028290-c5422c00-b317-11eb-8908-fd66352ae226.png)
+
 
 
 
