@@ -3,6 +3,6 @@ plugin: servicenow.itsm.now
 columns:
   - name
   - ip_address
-  - host
+  - host_name
 ansible_host_source: ip_address
 inventory_hostname_source: asset_tag
