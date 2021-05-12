@@ -12,6 +12,10 @@ Create a repo like this with the following structure:
 └── now.yml - Example of servicenow plugin config
 |__ foo.yml - Where plugin configs go
 
+<pre class="line-number language-yaml"><code>├── collections
+│   └── requirements.yml
+└── servicenow.yml
+</code></pre>
 
 When leveraging this in Ansible Automation Platform you will need to create custom credientals to send in the access variables to the plugin.
 
