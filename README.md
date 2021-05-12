@@ -57,12 +57,14 @@ NOW Create new Creds using the custom creds just created - Note the Creds create
 
 
 <B2>CREATE A NEW INVENTORY</B2>
-
 ![image](https://user-images.githubusercontent.com/17077661/118025859-24527180-b315-11eb-840a-4ca83e530006.png)
 
+<B> ADD A SOURCE TO THE INVENTORY </B>
 ![image](https://user-images.githubusercontent.com/17077661/118025958-2d434300-b315-11eb-97d1-02cf21897d8e.png)
 
-![image](https://user-images.githubusercontent.com/17077661/118026151-5cf24b00-b315-11eb-8805-64c7f6c9babe.png)
+<B EDIT SOURCE DETAILS WITH CREATED CREDS, PROJECT, and INVENTORY FILE (how you want to parse)
+![image](https://user-images.githubusercontent.com/17077661/118028880-721ca900-b318-11eb-985a-46b39f079a6a.png)
+
 
 
 
