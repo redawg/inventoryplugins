@@ -65,7 +65,7 @@ extra_vars:
 
 <B> EDIT SOURCE DETAILS WITH CREATED CREDS, PROJECT, and INVENTORY FILE (how you want to parse) </B>
 -- Note you will have to type the name of the yml you want with the plugin config the example is using "certnow.yml"
-
+![image](https://user-images.githubusercontent.com/17077661/118033206-654e8400-b31d-11eb-8029-5b0a0e603dda.png)
 
 
 
