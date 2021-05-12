@@ -73,6 +73,8 @@ extra_vars:
 
 <B> SYNC YOUR INVENTORY EXAMPLE BELOW </B>
 
+Based of this config for the plugin https://github.com/redawg/inventoryplugins/blob/main/certnow.yml
+
 <pre class="line-number language-yaml"><code>ansible-inventory [core 2.11.0rc2] 
   config file = None
   configured module search path = ['/home/runner/.ansible/plugins/modules', '/usr/share/ansible/plugins/modules']
