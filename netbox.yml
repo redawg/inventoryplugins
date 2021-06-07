@@ -1,5 +1,5 @@
 # netbox_inventory.yml file in YAML format
-# Example command line: ansible-inventory -v --list -i netbox_inventory.yml
+# DOCS: https://docs.ansible.com/ansible/latest/collections/netbox/netbox/nb_inventory_inventory.html
 
 plugin: netbox.netbox.nb_inventory
 validate_certs: False
