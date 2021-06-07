@@ -1,8 +1,0 @@
-# netbox_inventory.yml file in YAML format
-# Example command line: ansible-inventory -v --list -i netbox_inventory.yml
-
-plugin: netbox.netbox.nb_inventory
-validate_certs: False
-config_context: False
-group_by:
-  - device_roles
