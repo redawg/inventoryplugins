@@ -9,8 +9,11 @@ Create a repo like this with the following structure:
 
 <pre class="line-number language-yaml"><code>├── collections
 │   └── requirements.yml       # Where you put the collections required for plugin
-└── now.yml                    # Example of servicenow plugin config
-└── foo.yml                    # Where plugin configs go
+└── exampleconfigs             # Example of servicenow plugin config
+    └── collectionname         # Where plugin configs by collections
+        └── netbox.netbox      # Example directory for collection config
+            └── netbox.yml     # yml file for plugin config
+            └── README.md      # information about custom stuff needed for Plugin
 </code></pre>
 
 When leveraging this in Ansible Automation Platform you will need to create custom credientals to send in the access variables to the plugin.
