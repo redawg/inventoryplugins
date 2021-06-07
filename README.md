@@ -75,7 +75,7 @@ extra_vars:
 
 Based of this config for the plugin https://github.com/redawg/inventoryplugins/blob/main/certnow.yml
 
-<pre class="line-number language-yaml"><code>ansible-inventory [core 2.11.0rc2] 
+<pre class="line-number language-yaml"><code>ansible-inventory [core 2.11.0rc2]
   config file = None
   configured module search path = ['/home/runner/.ansible/plugins/modules', '/usr/share/ansible/plugins/modules']
   ansible python module location = /usr/local/lib/python3.8/site-packages/ansible
