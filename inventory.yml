@@ -1,7 +1,15 @@
 # netbox_inventory.yml file in YAML format
 # DOCS: https://docs.ansible.com/ansible/latest/collections/netbox/netbox/nb_inventory_inventory.html
 plugin: netbox.netbox.nb_inventory
-validate_certs: True
-config_context: False
+validate_certs: False
+config_context: True
 group_by:
-  - device_roles
+  - platforms
+  - sites
+compose:
+  ansible_network_os: platform.slug
+  query_filters:
+    - role: firewalls
+    - role: load_balancers
+    - role: switches
+    - role: routers
