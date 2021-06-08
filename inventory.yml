@@ -1,5 +1,10 @@
 # netbox_inventory.yml file in YAML format
 # DOCS: https://docs.ansible.com/ansible/latest/collections/netbox/netbox/nb_inventory_inventory.html
 plugin: netbox.netbox.nb_inventory
-compose:
-  ansible_network_os: platform.slug
+api_endpoint: http://localhost:8000
+validate_certs: True
+config_context: False
+group_by:
+  - device_roles
+device_query_filters:
+  - has_primary_ip: 'true'
