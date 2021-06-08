@@ -1,7 +1,7 @@
 # netbox_inventory.yml file in YAML format
 # DOCS: https://docs.ansible.com/ansible/latest/collections/netbox/netbox/nb_inventory_inventory.html
 plugin: netbox.netbox.nb_inventory
-api_endpoint: http://ansible.mackdev.net:8080/api/dcim/
+api_endpoint: http://ansible.mackdev.net:8080/api/
 validate_certs: True
 config_context: False
 group_by:
