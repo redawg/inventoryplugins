@@ -1,0 +1,5 @@
+- name: Use default config (~/.kube/config) file and active context, and return objects for a specific namespace
+  plugin: redhat.openshift.openshift
+  connections:
+    - namespaces:
+        - vmexamples
