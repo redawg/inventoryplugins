@@ -3,3 +3,4 @@ collections:
 - name: servicenow.itsm   # Certified Collection plugin
 - name: servicenow.servicenow # Community Collection plugin
 - name: netbox.netbox     #Community Collection plugin
+- name: redhat.openshift  #Certified Collection for inventory plugin
